@@ -1,1 +1,1 @@
-my first sample directory
+# My first sample directory
